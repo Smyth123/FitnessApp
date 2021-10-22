@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FitnessApplication</string>
+    <string name="fitness">Fitness</string>
+    <string name="steps">Steps</string>
+    <string name="calories">Calories</string>
+    <string name="calorie">Calorie</string>
+    <string name="quote_of_the_day">Quote Of The day</string>
+    <string name="remember_who_you_re_doing_it_for">Remember who you\'re doing it for!</string>
+    <string name="home">Home</string>
+    <string name="step_counter">Step Counter</string>
+    <string name="hint_food">What did you eat?</string>
+    <string name="submit">Submit</string>
+    <string name="caloriesCount">How many calories?</string>
+</resources>
